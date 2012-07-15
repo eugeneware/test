@@ -1,2 +1,6 @@
 # This is a new file
+
+This is a change to the file.
+
 * Will this be easy to upload for people?
+* Here's another change.
