@@ -3,4 +3,5 @@
 This is a change to the file.
 
 * Will this be easy to upload for people?
+* Here's a change that someone else made
 * Here's another change.
