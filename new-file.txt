@@ -5,4 +5,5 @@ This is a change to the file.
 * Will this be ok to upload for people?
 * an instant change?
 * Here's a change that someone else made
+* a new change
 * Here's another change.
